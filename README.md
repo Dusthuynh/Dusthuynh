@@ -3,7 +3,7 @@
 ## Hi there😄 , I'm passionate about Knowledge and I want to do a project to store knowledge for my next generation
 
 <div class="zoom-within-container">
-      <img src="img/zoom.jpg" alt="zoom">
+      <img src="https://lh3.googleusercontent.com/SlygahJ7KcHvqLgCO9XaZEkIRfNiKtZzeHzaB3xZSX8nMlRv8dZGUt0uHpJQGVU0WT6-n_2KQ3di_wPDXLDTuglqlsPaXwu3qFKnsHsUjpkJZvV6VtBsXAvQYVzpHiFLy2XfsHwuswhDE3xcCWEZYvNvgMgg-x-Z7Sg6NPFTqK6Lu50VEP7_YxDbt__LCDuFm7hYERbI7CI3W4GXaEnFbgHwCc3YX8YIr-dyz1FC1ZSE0LJPH7YbEWl70aeJpPiBR12rzHiWETOIEm_e6q06kxfRyk_4qIwvkEjGD_8Pv1APlpl_QPtRInDstZgRJ0dL2_aOYoaeB5ueM_A5WJsZ1kIKJD7bzXhyHnDlKtsS9hpJZUwFy0APhW6xtcg2oOP1dafp6WAi_m12c6AXGcq4-KYEAjckULXjl-VwoJj2fxD4yg1WsMRs9iCyyoFa5tr7sOY0uMfrya1pCBq_RbAR4Lsl2uaIx_OKhUSF8CkHy2AdWDYsUOYoiiSCY_JK8gu-HKp64wgYhGWnHRm2yzxccIxhM7BUvh1U-CFt4MjIpF9w2BpskKJaD3dCI1_PKxCPVLCLJ5GKBWY8MWLc_xzcQVMxc_h-Ro-4QRMjc9aizBcY3CoOMacyVsDDrZkRoIuqBpp-H4Bdkv9TAI5jgNETF-Bv9P8jlWDGP62WtA5Hh0MEl-jXGgb0D_DLbsj8xmv5ReUwJZ4yceJmPA79RACvMnI_=w715-h955-no?authuser=2" alt="zoom">
 </div>
 ---
 
