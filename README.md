@@ -1,4 +1,4 @@
-<img align="left" src="https://lh3.googleusercontent.com/Lo63oZ3sKrr_vcpOMUpSnVqj6HFI621MIR09J0rirAI3J0gUSOcfoIceFznkiDO6ubgpDcOikXjRbuBg2SN56wOFst8BQP0jMdLczAK3CmMaTZOu_b2Wjc6BqxMkPl-YzbJeDpQr98OUhJ3R1bdYZxCUfHHrTa5IRR8mY8o3UcMPxqb4eiCwh-FRoJdq73SLJ15c57_7FuGAZmtwxWdH2-DwnIv-8Vti71_WGwmPaICgAUJB34sa4GElmJ8_ZQLwn2PJ57vNI-qYQ3Tkm1cEmJGqdyCVi8uL68gyvdcwSVwYniERqY0KODDOgDGJ7rT5hAgusyFpoBHXWAVmRczzhMuPjKQi4_2XWQi876q9hqGOqGk5hS2gtie8XuzFYG9Y_AB202kY-75dz2TbWh3q8MohoEwEarGTX8HsCfA4LjlPWDkZZwDHKzzucf1sjI0xKnQ5xlUA5MeiTNoEv4oZe1zSdPVg3F2daPPkZL_FhnHckeSpWmCdD8aqPbxoQbCdMSuyWO6k4QA3z5Y-b03g84cc9na7MlUjVmTapoWjxBpjne_uQKEEd5A70gOuMLtHJemmQBurmsS1ex3xqE4mHemJIJCnlL06hkG06pZQiXNNDW2gPW5SEYfYyn26H-t_zRudk7SK0Z38Q12H3yMyq8jlN4-OxUzQQQ_dgandZnM9u6VENtMuJOmlOPhE7WRwBsTa9fqmwRCz3tamwSYFOWM9=w715-h955-no?authuser=2" width="350" height="auto"/>
+<img align="left" src="https://github.com/Dusthuynh/Dusthuynh/blob/0a654cfb01feed1a79888d60a4cb9aadd0f61292/IMG_1620650263161_1620650955981.jpg" width="350" height="auto"/>
 
 ## Hi there😄 , I'm passionate about Knowledge and I want to do a project to store knowledge for my next generation
 
