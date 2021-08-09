@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/Dusthuynh/Dusthuynh/blob/0a654cfb01feed1a79888d60a4cb9aadd0f61292/IMG_1620650263161_1620650955981.jpg" width="350" height="auto"/>
+
 
 ## Hi there😄 , I'm passionate about Knowledge and I want to do a project to store knowledge for my next generation
 
