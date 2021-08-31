@@ -1,7 +1,7 @@
 
 
-## Hi there, 
-##This will be where I store my projects and my university lessons. Thanks for visiting my github.
+## Hi there, This will be where I store my projects and my university lessons. 
+**Thanks for visiting my github.
 
 [Notion-CanTho University](https://www.notion.so/huynhdust/3b361be9e16f45acbc2c165df3f65e23?v=72c2c81fb53e49888e779b241a4f46bc)  
 https://dusthuynh.github.io
