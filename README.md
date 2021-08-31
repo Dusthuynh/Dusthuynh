@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=35FFA3&center=true&vCenter=true&lines=Software+Engineer;I'm+just+a+student"></a>
 </p>
+<p align="center">https://dusthuynh.github.io/</p>
 <hr/>
 
 ## 🔥 Streak Stats
